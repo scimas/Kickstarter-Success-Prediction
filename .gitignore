@@ -1,0 +1,8 @@
+dataset/*
+!dataset/DATASET.md
+misc/
+presentation/
+Research_Paper/
+video_files/
+.*
+!.gitignore
